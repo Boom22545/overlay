@@ -1,3 +1,9 @@
-test
-123
-$ddd
+$1=========================={Overlay V2.0.0}==========================
+Change log:
+- OverlayV1 but huge perfomance improvement and a better look
+
+Commands:
+/msg bwreport username - to report a hacker/sniper.
+/t username@   - To check a player's stats.
+/t p@          - To check your party members' stats.
+/t reset@      - To reset the overlay's position on the screen.
