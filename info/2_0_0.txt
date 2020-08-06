@@ -23,7 +23,7 @@ $1Allow the overlay to get data from api.hypixel.net at light speed
 by using multiple processing unit called thread. 
 (maximum 8 threads for free users | 32 threads for paid users)
 $3[Window Mode]
-$1To disable Alway-On-Top mode and always show the title bar. this is
+$1To disable Always-On-Top mode and always show the title bar. this is
 for people with multiple monitors and wish to put the overlay there.
 $3[Profile]
 $1Allow you to save settings, overlay size and overlay position on 
