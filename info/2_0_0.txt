@@ -45,3 +45,6 @@ $8Commands:$0
 /list          - To check stats of the whole lobby
 =====================================================================
 $4Warning: $5Overlay is considered to be a use-at-your-own-risk mod.
+
+$4   UPDATE REQUIRED!
+$4 https://bit.ly/3fxPsCT
