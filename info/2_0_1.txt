@@ -45,3 +45,11 @@ $8Commands:$0
 /list          - To check stats of the whole lobby
 =====================================================================
 $4Warning: $5Overlay is considered to be a use-at-your-own-risk mod.
+
+$3For premium users, $2There is a bug causing unstable login session. 
+if you are getting "invalid token" error please follow this steps to 
+fix it.$0
+1) play until the error shows up
+2) restart the overlay
+3) login
+4) restart the overlay immediately after you logged in
