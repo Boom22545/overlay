@@ -53,5 +53,3 @@ fix it.$0
 2) restart the overlay
 3) login
 4) restart the overlay immediately after you logged in
-
-$5*NickStats feature is temporary down atm
