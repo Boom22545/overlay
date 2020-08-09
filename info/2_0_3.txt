@@ -1,5 +1,5 @@
 $1
-=========================={Overlay V2.0.1/2}=========================
+=========================={Overlay V2.0.3}===========================
 $8Feature descriptions:
 $2[Queue Stats] 
 $1The main feature of the overlay allowing you to check everyone's 
@@ -45,3 +45,8 @@ $8Commands:$0
 /list          - To check stats of the whole lobby
 =====================================================================
 $4Warning: $5Overlay is considered to be a use-at-your-own-risk mod.
+
+$2Update:
+- Bugs fix
+- Sort by fkdr
+- Somewhat better NickStats
