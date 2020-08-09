@@ -1,5 +1,5 @@
 $1
-=========================={Overlay V2.0.1}===========================
+=========================={Overlay V2.0.1/2}=========================
 $8Feature descriptions:
 $2[Queue Stats] 
 $1The main feature of the overlay allowing you to check everyone's 
