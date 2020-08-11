@@ -50,3 +50,6 @@ $2Update:
 - Bugs fix
 - Sort by fkdr
 - Somewhat better NickStats
+
+$5 Notice: NickStats feature is temporary down 
+   $2 (will last no longer than 6 hour)
