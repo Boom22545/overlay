@@ -51,5 +51,4 @@ $2Update:
 - Sort by fkdr
 - Somewhat better NickStats
 
-$5 Notice: NickStats feature is temporary down 
-   $2 (will last no longer than 6 hour)
+$#20ff20 NickStats server is back online
