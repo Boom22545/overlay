@@ -50,3 +50,8 @@ $2Update:
 - Bugs fix
 - Sort by fkdr
 - Somewhat better NickStats
+
+$2=====================================================================
+$5       -----[Denicking Exploit has been patched.]-----
+$4 Please disable NickStats for the overlay to operate correctly
+$2=====================================================================
