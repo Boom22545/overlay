@@ -1,5 +1,5 @@
 $1
-=========================={Overlay V2.0.3}===========================
+=========================={Overlay V2.0.4}===========================
 $8Feature descriptions:
 $2[Queue Stats] 
 $1The main feature of the overlay allowing you to check everyone's 
@@ -50,5 +50,3 @@ $2Update:
 - Bugs fix
 - Sort by fkdr
 - Somewhat better NickStats
-
-$#20ff20 NickStats server is back online
