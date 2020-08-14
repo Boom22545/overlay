@@ -51,6 +51,6 @@ $4Warning: $5Overlay is considered to be a use-at-your-own-risk mod.
 
 $4Update:
 - Bugs fix
-- Auto /who $5(Don't use with Badlion or Lunar Client)$2
+- Added Auto /who $5(Don't use with Badlion or Lunar Client)$2
+- Added TabToShow
 - Removed NickStats (Denicking Exploit was patched)
-- Add TabToShow
