@@ -30,7 +30,7 @@ $1Allow you to save settings, overlay size and overlay position on
 the screen and load them next times you open the overlay.
 $2[Auto Who]
 $1The overlay will type /who for you when you are in a queue
-$2Warning: $1Don't not enable this with Badlion or Lunar.
+$2Warning: $1Do not enable this with Badlion or Lunar.
 
 $2[X] Free
 $3[X] Premium
