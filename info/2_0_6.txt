@@ -54,3 +54,7 @@ $4Update: $2
 - Added Auto /who $5(Don't use with Badlion or Lunar Client)$2
 - Added TabToShow
 - Removed NickStats (Denicking Exploit was patched)
+$4==$2==$4==$2==$4==$2==$4==$2==$4==$2==$4==$2==$4==$2==$4==$2==$4==$2==$4==$2==$4==$2==$4==$2==
+            $4Anti-Snipe is down $4until further notice
+                 $3Sorry for the inconvenience
+$4==$2==$4==$2==$4==$2==$4==$2==$4==$2==$4==$2==$4==$2==$4==$2==$4==$2==$4==$2==$4==$2==$4==$2==
