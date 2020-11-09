@@ -50,4 +50,4 @@ $8Commands:$0
 $4Warning: $5Overlay is considered to be a use-at-your-own-risk mod.
 
 $4Update: $2
-- Auto default client paths
+- Auto update default client paths
