@@ -1,6 +1,3 @@
-$1
-=========================={Overlay V2.0.0}===========================
-
 $5                UPDATE REQUIRED!!
 $4 https://github.com/Boom22545/overlay/releases/latest
 $6                      or
