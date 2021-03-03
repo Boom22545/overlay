@@ -21,6 +21,6 @@
 - Automatic snipers detection system (Currently only support 4s and 3s)
 
 ## **For free users, use username `Demo` to login in the overlay** [Get Full version](https://bwstatsoverlay.selly.store/)
-##  Discord : https://discord.gg/ZwJf3YS
+##  Discord : https://discord.gg/bwstats
 ##  Discord : BoomZa#5926
 # [Download Here](https://github.com/Boom22545/overlay/releases)
