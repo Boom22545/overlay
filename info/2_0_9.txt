@@ -52,3 +52,4 @@ $4Warning: $5Overlay is considered to be a use-at-your-own-risk mod.
 $4Update: $2
 - Bugs fix
 - use "/msg _report username" to report a hacker/sniper
+- discord:  $5discord.gg/bwstats
