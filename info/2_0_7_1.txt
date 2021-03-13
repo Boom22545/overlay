@@ -55,12 +55,10 @@ $4Update: $2
 - Added TabToShow
 - Removed NickStats (Denicking Exploit was patched)
 
-$3==$2==$3==$2==$3==$2==$3==$2==$3==$2==$3==$2==$3==$2==$3==$2==$3==$2==$3==$2==$3==$2==$3==$2==$3==$2==$3==$2==$3==$2==$3==$2==$3==$2==
-                 $7Anti-Snipe is $#30FF30coming back soon
-                   $2Sorry for the inconvenience
-$3==$2==$3==$2==$3==$2==$3==$2==$3==$2==$3==$2==$3==$2==$3==$2==$3==$2==$3==$2==$3==$2==$3==$2==$3==$2==$3==$2==$3==$2==$3==$2==$3==$2==
-
 $5                UPDATE REQUIRED!!
+$5      ANTI-SNIPER SERVER HAS BEEN MIGRATED
+    THE FEATURE WON'T WORK ON THIS VERSION ANMORE
+
 $4 https://github.com/Boom22545/overlay/releases/latest
 $6                      or
 $4           https://discord.gg/bwstats
