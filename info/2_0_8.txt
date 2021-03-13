@@ -53,6 +53,9 @@ $4Update: $2
 - Auto update default client paths
 
 $5                UPDATE REQUIRED!!
+$5      ANTI-SNIPER SERVER HAS BEEN MIGRATED
+    THE FEATURE WON'T WORK ON THIS VERSION ANMORE
+
 $4 https://github.com/Boom22545/overlay/releases/latest
 $6                      or
 $4           https://discord.gg/bwstats
